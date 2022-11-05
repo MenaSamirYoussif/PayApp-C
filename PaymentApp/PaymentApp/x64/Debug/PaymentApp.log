@@ -1,0 +1,8 @@
+﻿  transactions.c
+C:\Users\L320\Desktop\C _ Payment Project\PaymentApp\PaymentApp\transactions.c(107,31): warning C4047: 'function': 'char **' differs in levels of indirection from 'char (*)[50]'
+C:\Users\L320\Desktop\C _ Payment Project\PaymentApp\PaymentApp\transactions.c(107,16): warning C4024: 'HolderName': different types for formal and actual parameter 1
+C:\Users\L320\Desktop\C _ Payment Project\PaymentApp\PaymentApp\transactions.c(108,26): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[50]'
+C:\Users\L320\Desktop\C _ Payment Project\PaymentApp\PaymentApp\transactions.c(108,12): warning C4024: 'PanNum': different types for formal and actual parameter 1
+C:\Users\L320\Desktop\C _ Payment Project\PaymentApp\PaymentApp\transactions.c(109,33): warning C4047: 'function': 'char **' differs in levels of indirection from 'char (*)[50]'
+C:\Users\L320\Desktop\C _ Payment Project\PaymentApp\PaymentApp\transactions.c(109,16): warning C4024: 'ExpiryDate': different types for formal and actual parameter 1
+  PaymentApp.vcxproj -> C:\Users\L320\Desktop\C _ Payment Project\PaymentApp\x64\Debug\PaymentApp.exe
